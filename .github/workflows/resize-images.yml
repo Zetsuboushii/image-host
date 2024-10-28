@@ -6,6 +6,8 @@ on:
       - 'dnd/characters/**.png'
       - 'dnd/characters/**.jpg'
       - 'dnd/characters/**.jpeg'
+      - 'dnd/enemies/**.png'
+      - 'dnd/enemies/**.jpg'
 
 jobs:
   resize_images:
@@ -18,10 +20,19 @@ jobs:
     - name: Install ImageMagick
       run: sudo apt-get install imagemagick
 
-    - name: Resize Images
+    - name: Resize Character Images
       run: |
         mkdir -p resized/dnd/characters
         for file in dnd/characters/*.{png,jpg,jpeg}; do
+          if [ -f "$file" ]; then
+            convert "$file" -resize 50% "resized/$file"
+          fi
+        done
+
+    - name: Resize Character Images
+      run: |
+        mkdir -p resized/dnd/enemies
+        for file in dnd/enemies/*.{png,jpg,jpeg}; do
           if [ -f "$file" ]; then
             convert "$file" -resize 50% "resized/$file"
           fi
@@ -32,6 +43,7 @@ jobs:
         git config --local user.email "action@github.com"
         git config --local user.name "GitHub Action"
         git add resized/dnd/characters/
+        git add resized/dnd/enemies
         git commit -m "Resized images by GitHub Action"
         git push
       env:
