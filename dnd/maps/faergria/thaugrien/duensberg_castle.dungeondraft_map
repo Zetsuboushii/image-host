@@ -380,8 +380,8 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 4319.68, 4057.05 )",
-			"camera_zoom": 8,
+			"camera_position": "Vector2( 4402.47, 5376.9 )",
+			"camera_zoom": 5.333333,
 			"guide_position": "null",
 			"trace_image": null,
 			"color_palettes": {
@@ -484,7 +484,7 @@
 			"object_tags_memory": {
 				"set": 0,
 				"tags": [
-					".Decor"
+					".Carpet"
 				]
 			},
 			"scatter_tags_memory": {
@@ -495,11 +495,11 @@
 			},
 			"object_library_memory": {
 				"mode": "all",
-				"scroll": 994,
+				"scroll": 0,
 				"selected": [
-
+					"res://packs/eLzxN8nc/textures/objects/fireplace_03.png"
 				],
-				"search_strictness": 0.61
+				"search_strictness": 0.74
 			},
 			"scatter_library_memory": {
 				"mode": "used",
@@ -524,7 +524,7 @@
 		"format": 3,
 		"width": 39,
 		"height": 31,
-		"next_node_id": "9a8",
+		"next_node_id": "ab7",
 		"next_prefab_id": "3",
 		"msi": {
 			"offset_map_size": 512,
@@ -1784,27 +1784,27 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"3": "res://textures/tilesets/simple/tileset_concrete.png",
-						"4": "res://textures/tilesets/simple/tileset_cobble.png",
-						"5": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"6": "res://textures/tilesets/simple/tileset_cave.png",
-						"7": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"8": "res://textures/tilesets/simple/tileset_carpet.png",
-						"9": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"10": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"11": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"12": "res://textures/tilesets/simple/tileset_sewers.png",
+						"2": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"3": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"4": "res://textures/tilesets/simple/tileset_concrete.png",
+						"5": "res://textures/tilesets/simple/tileset_cobble.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"7": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"8": "res://textures/tilesets/simple/tileset_diamond.png",
+						"9": "res://textures/tilesets/simple/tileset_cave.png",
+						"10": "res://textures/tilesets/simple/tileset_carpet.png",
+						"11": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"12": "res://textures/tilesets/simple/tileset_concrete_large.png",
 						"13": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"14": "res://textures/tilesets/simple/tileset_diamond.png",
+						"14": "res://textures/tilesets/simple/tileset_straw.png",
 						"15": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"16": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"17": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"18": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"19": "res://textures/tilesets/simple/tileset_ornate.png",
-						"20": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"21": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"22": "res://textures/tilesets/simple/tileset_straw.png",
+						"16": "res://textures/tilesets/simple/tileset_sewers.png",
+						"17": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"18": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"19": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"20": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"21": "res://textures/tilesets/simple/tileset_ornate.png",
+						"22": "res://textures/tilesets/simple/tileset_roman_tiles.png",
 						"23": "res://textures/tilesets/simple/tileset_wood_damaged.png",
 						"24": "res://packs/kt201FMq/textures/tilesets/simple/ch_stone.png",
 						"25": "res://packs/kt201FMq/textures/tilesets/simple/ch_wood.png"
@@ -1884,7 +1884,7 @@
 						"node_id": "7e2"
 					},
 					{
-						"position": "Vector2( -3069.61, -1534.39 )",
+						"position": "Vector2( -3072, -1536 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"points": "PoolVector2Array( 6400, 2048, 7680, 2048, 8448, 2048, 9728, 2048, 9728, 5632, 8960, 5632, 8960, 5888, 8704, 5888, 8704, 5632, 7424, 5632, 7424, 5888, 7168, 5888, 7168, 5632, 6400, 5632 )",
@@ -1899,18 +1899,6 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 8448, 5632, 9728, 5632, 9728, 7680, 8448, 7680 )",
-						"layer": 100,
-						"color": "ffffffff",
-						"outline": false,
-						"texture": "res://packs/jeeh3kgP/textures/patterns/normal/ch_dungeonvoid.png",
-						"rotation": 0,
-						"node_id": "6ef"
-					},
-					{
-						"position": "Vector2( 0, 0 )",
-						"shape_rotation": 0,
-						"scale": "Vector2( 1, 1 )",
 						"points": "PoolVector2Array( 6656, 4608, 7424, 4608, 7424, 5376, 6656, 5376 )",
 						"layer": 100,
 						"color": "ffffffff",
@@ -1918,30 +1906,6 @@
 						"texture": "res://packs/jeeh3kgP/textures/patterns/normal/ch_dungeonvoid.png",
 						"rotation": 0,
 						"node_id": "6f0"
-					},
-					{
-						"position": "Vector2( 0, 0 )",
-						"shape_rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 256, 4608, 1280, 4608, 1280, 5888, 256, 5888 )",
-						"layer": 100,
-						"color": "ffffffff",
-						"outline": false,
-						"texture": "res://packs/jeeh3kgP/textures/patterns/normal/ch_dungeonvoid.png",
-						"rotation": 0,
-						"node_id": "6f6"
-					},
-					{
-						"position": "Vector2( -1.6, 0 )",
-						"shape_rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 256, 4096, 1280, 4096, 1280, 4608, 256, 4608 )",
-						"layer": 100,
-						"color": "ffffffff",
-						"outline": false,
-						"texture": "res://packs/jeeh3kgP/textures/patterns/normal/ch_dungeonvoid.png",
-						"rotation": 0,
-						"node_id": "6f7"
 					},
 					{
 						"position": "Vector2( 0, 0 )",
@@ -2091,7 +2055,7 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 6144, 5888, 6912, 5888, 6912, 6656, 7424, 6656, 7424, 5888, 7936, 5888, 7936, 5632, 9728, 5632, 9728, 5120, 7424, 5120, 7424, 5376, 6656, 5376, 6656, 4608, 7168, 4608, 7168, 3584, 9728, 3584, 9728, 3072, 8448, 3072, 8448, 1792, 7936, 1792, 7936, 3072, 6656, 3072, 6656, 4096, 6144, 4096 )",
+						"points": "PoolVector2Array( 6144, 5888, 6912, 5888, 6912, 6656, 7424, 6656, 7424, 5888, 7936, 5888, 7936, 5632, 9728, 5632, 9728, 5120, 7424, 5120, 7424, 5376, 6656, 5376, 6656, 4608, 7168, 4608, 7168, 3584, 9728, 3584, 9728, 3072, 6656, 3072, 6656, 4096, 6144, 4096 )",
 						"layer": 100,
 						"color": "ffffffff",
 						"outline": false,
@@ -2100,7 +2064,7 @@
 						"node_id": "8cb"
 					},
 					{
-						"position": "Vector2( 0, 0 )",
+						"position": "Vector2( 12, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"points": "PoolVector2Array( 3840, 5888, 1280, 5888, 1280, 4096, 256, 4096, 256, 3584, 1536, 3584, 1536, 3840, 2560, 3840, 2560, 5376, 3328, 5376, 3328, 4096, 3840, 4096 )",
@@ -2146,30 +2110,6 @@
 						"texture": "res://packs/eLzxN8nc/textures/patterns/normal/ch_shipwood.png",
 						"rotation": 0,
 						"node_id": "8fa"
-					},
-					{
-						"position": "Vector2( 0, 0 )",
-						"shape_rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 6656, 1792, 7936, 1792, 7936, 3072, 6656, 3072 )",
-						"layer": 100,
-						"color": "ffffffff",
-						"outline": false,
-						"texture": "res://packs/4YgtpczN/textures/patterns/normal/wood_3d.png",
-						"rotation": 0,
-						"node_id": "942"
-					},
-					{
-						"position": "Vector2( 0, 0 )",
-						"shape_rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"points": "PoolVector2Array( 8448, 1792, 9728, 1792, 9728, 3072, 8448, 3072 )",
-						"layer": 100,
-						"color": "ffffffff",
-						"outline": false,
-						"texture": "res://packs/4YgtpczN/textures/patterns/normal/wood_3d.png",
-						"rotation": 0,
-						"node_id": "943"
 					},
 					{
 						"position": "Vector2( 0, 0 )",
@@ -2247,6 +2187,102 @@
 						"position": "Vector2( 0, 0 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 6656, 1792, 8448, 1792, 8448, 2304, 7680, 2304, 7680, 3072, 6656, 3072 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/eLzxN8nc/textures/patterns/normal/ch_wood_pattern.png",
+						"rotation": 0,
+						"node_id": "9cb"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 7680, 2304, 8448, 2304, 8448, 3072, 7680, 3072 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/eLzxN8nc/textures/patterns/normal/ch_tiles.png",
+						"rotation": 0,
+						"node_id": "9cc"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 256, 4864, 1280, 4864, 1280, 5888, 256, 5888 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/b0twaJ58/textures/patterns/normal/ch_wood_table.png",
+						"rotation": 0,
+						"node_id": "9ef"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 256, 4096, 1280, 4096, 1280, 4864, 256, 4864 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/7fi3cBjv/textures/patterns/normal/dirt_pebbles.png",
+						"rotation": 0,
+						"node_id": "9f1"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 2816, 5120, 3072, 5120, 3072, 5376, 2816, 5376 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/xjCzavyl/textures/patterns/normal/ch_stone_tiled.png",
+						"rotation": 0,
+						"node_id": "9fa"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 6912, 5120, 7168, 5120, 7168, 5376, 6912, 5376 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/xjCzavyl/textures/patterns/normal/ch_stone_tiled.png",
+						"rotation": 0,
+						"node_id": "9fb"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 3840, 5888, 4352, 5888, 4349.66, 5508.74, 5637.66, 5492.74, 5627.66, 5888.74, 6149.66, 5892.74, 6144, 7168, 3840, 7168 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/UzKDOeUr/textures/patterns/normal/Shadow50.png",
+						"rotation": 0,
+						"node_id": "a0a"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 8448, 1792, 9728, 1792, 9728, 3072, 8448, 3072 )",
+						"layer": 100,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/4UcCbKRJ/textures/patterns/normal/ch_wood_dark.png",
+						"rotation": 0,
+						"node_id": "aa6"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
 						"points": "PoolVector2Array( 4352, 5120, 5632, 5120, 5633.24, 4734.49, 5249.9, 4607.83, 4737.9, 4601.16, 4349.24, 4740.49 )",
 						"layer": 200,
 						"color": "ffffffff",
@@ -2290,9 +2326,183 @@
 						"texture": "res://packs/UzKDOeUr/textures/patterns/normal/Shadow25.png",
 						"rotation": 0,
 						"node_id": "965"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 3328, 4096, 3840, 4096, 3840, 4608, 4352, 4608, 4347.93, 4741.01, 4734.59, 4607.68, 5259.93, 4613.01, 5635.93, 4749.01, 5632, 4608, 6144, 4608, 6144, 4096, 6656, 4096, 6656, 512, 3328, 512 )",
+						"layer": 400,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/UzKDOeUr/textures/patterns/normal/Shadow25.png",
+						"rotation": 0,
+						"node_id": "a07"
+					},
+					{
+						"position": "Vector2( 0, 0 )",
+						"shape_rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"points": "PoolVector2Array( 8328.86, 3981.01, 9334.86, 3979.01, 9328.86, 4747.01, 8332.86, 4729.01 )",
+						"layer": 400,
+						"color": "ffffffff",
+						"outline": false,
+						"texture": "res://packs/UzKDOeUr/textures/patterns/normal/Shadow50.png",
+						"rotation": 0,
+						"node_id": "a09"
 					}
 				],
 				"walls": [
+					{
+						"points": "PoolVector2Array( 7168, 5376, 7168, 5120 )",
+						"texture": "res://packs/4YgtpczN/textures/walls/stone6a.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9f9",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 6912, 5376, 6912, 5120 )",
+						"texture": "res://packs/4YgtpczN/textures/walls/stone6a.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9f8",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 3072, 5376, 3072, 5120 )",
+						"texture": "res://packs/4YgtpczN/textures/walls/stone6a.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9f7",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 2816, 5376, 2816, 5120 )",
+						"texture": "res://packs/4YgtpczN/textures/walls/stone6a.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9f6",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 1280.42, 4369.96, 890.416, 4369.96 )",
+						"texture": "res://packs/3nTAliog/textures/walls/shipwoodslim5.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9ee",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 8048.86, 2606.38, 8446.19, 2607.71 )",
+						"texture": "res://packs/jeeh3kgP/textures/walls/stone1.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9c9",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 7680, 3072, 7680, 2304, 8448, 2304 )",
+						"texture": "res://packs/jeeh3kgP/textures/walls/stone1.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9b9",
+						"portals": [
+							{
+								"position": "Vector2( 7680, 2944 )",
+								"rotation": 1.570796,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 0, -1 )",
+								"texture": "res://packs/4YgtpczN/textures/portals/door_3b.png",
+								"radius": 128,
+								"point_index": 0,
+								"wall_id": "9b9",
+								"wall_distance": 0.166667,
+								"closed": true,
+								"node_id": "9be"
+							}
+						]
+					},
+					{
+						"points": "PoolVector2Array( 8960, 1792, 8960, 2304, 9216, 2560, 9216, 3072 )",
+						"texture": "res://packs/jeeh3kgP/textures/walls/stone1.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9b5",
+						"portals": [
+
+						]
+					},
+					{
+						"points": "PoolVector2Array( 6656, 3072, 8448, 3072 )",
+						"texture": "res://packs/jeeh3kgP/textures/walls/stone1.png",
+						"color": "ffffffff",
+						"loop": false,
+						"type": 1,
+						"joint": 1,
+						"normalize_uv": true,
+						"shadow": false,
+						"node_id": "9b2",
+						"portals": [
+							{
+								"position": "Vector2( 7040, 3072 )",
+								"rotation": 0,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://packs/4YgtpczN/textures/portals/door_3b.png",
+								"radius": 128,
+								"point_index": 0,
+								"wall_id": "9b2",
+								"wall_distance": 0.214286,
+								"closed": true,
+								"node_id": "9b3"
+							}
+						]
+					},
 					{
 						"points": "PoolVector2Array( 3072, 3840, 3328, 3840 )",
 						"texture": "res://packs/4YgtpczN/textures/walls/wood1a.png",
@@ -3250,17 +3460,17 @@
 						"node_id": "6cd",
 						"portals": [
 							{
-								"position": "Vector2( 1024, 4864 )",
-								"rotation": 0,
+								"position": "Vector2( 841.478, 4864 )",
+								"rotation": 3.141593,
 								"scale": "Vector2( 1, 1 )",
 								"direction": "Vector2( 1, 0 )",
-								"texture": "res://textures/ui/null.png",
+								"texture": "res://packs/4YgtpczN/textures/portals/door_3b.png",
 								"radius": 128,
 								"point_index": 0,
 								"wall_id": "6cd",
-								"wall_distance": 0.75,
+								"wall_distance": 0.571756,
 								"closed": true,
-								"node_id": "886"
+								"node_id": "a17"
 							}
 						]
 					},
@@ -3438,46 +3648,6 @@
 						]
 					},
 					{
-						"points": "PoolVector2Array( 6656, 3072, 7936, 3072 )",
-						"texture": "res://packs/4YgtpczN/textures/walls/stone6a.png",
-						"color": "ffffffff",
-						"loop": false,
-						"type": 1,
-						"joint": 1,
-						"normalize_uv": true,
-						"shadow": false,
-						"node_id": "6d7",
-						"portals": [
-							{
-								"position": "Vector2( 7040, 3072 )",
-								"rotation": 0,
-								"scale": "Vector2( 1, 1 )",
-								"direction": "Vector2( 1, 0 )",
-								"texture": "res://textures/ui/null.png",
-								"radius": 128,
-								"point_index": 0,
-								"wall_id": "6d7",
-								"wall_distance": 0.3,
-								"closed": true,
-								"node_id": "863"
-							}
-						]
-					},
-					{
-						"points": "PoolVector2Array( 7936, 3072, 7936, 1792 )",
-						"texture": "res://packs/4YgtpczN/textures/walls/stone6a.png",
-						"color": "ffffffff",
-						"loop": false,
-						"type": 1,
-						"joint": 1,
-						"normalize_uv": true,
-						"shadow": false,
-						"node_id": "6d8",
-						"portals": [
-
-						]
-					},
-					{
 						"points": "PoolVector2Array( 8448, 3072, 9728, 3072 )",
 						"texture": "res://packs/4YgtpczN/textures/walls/stone6a.png",
 						"color": "ffffffff",
@@ -3489,17 +3659,30 @@
 						"node_id": "6d9",
 						"portals": [
 							{
-								"position": "Vector2( 9344, 3072 )",
+								"position": "Vector2( 9053.68, 3072 )",
 								"rotation": 0,
 								"scale": "Vector2( 1, 1 )",
 								"direction": "Vector2( 1, 0 )",
-								"texture": "res://textures/ui/null.png",
+								"texture": "res://packs/4YgtpczN/textures/portals/door_3b.png",
 								"radius": 128,
 								"point_index": 0,
 								"wall_id": "6d9",
-								"wall_distance": 0.7,
+								"wall_distance": 0.473184,
 								"closed": true,
-								"node_id": "864"
+								"node_id": "a8e"
+							},
+							{
+								"position": "Vector2( 9391.68, 3072 )",
+								"rotation": 3.141593,
+								"scale": "Vector2( 1, 1 )",
+								"direction": "Vector2( 1, 0 )",
+								"texture": "res://packs/4YgtpczN/textures/portals/door_3b.png",
+								"radius": 128,
+								"point_index": 0,
+								"wall_id": "6d9",
+								"wall_distance": 0.737247,
+								"closed": true,
+								"node_id": "a8f"
 							}
 						]
 					},
@@ -3580,7 +3763,7 @@
 				"water": {
 					"disable_border": true,
 					"tree": {
-						"ref": -1277476474,
+						"ref": -2112954938,
 						"polygon": "PoolVector2Array(  )",
 						"join": 0,
 						"end": 0,
@@ -3590,7 +3773,7 @@
 						"blend_distance": 0,
 						"children": [
 							{
-								"ref": -590163570,
+								"ref": 1801684042,
 								"polygon": "PoolVector2Array( 3328, 3072, 2560, 3072, 2560, 1792, 3328, 1792 )",
 								"join": 0,
 								"end": 0,
@@ -3603,7 +3786,7 @@
 								]
 							},
 							{
-								"ref": 1916345666,
+								"ref": -704825194,
 								"polygon": "PoolVector2Array( 2304, 2560, 1536, 2560, 1536, 1792, 2304, 1792 )",
 								"join": 0,
 								"end": 0,
@@ -4633,7 +4816,7 @@
 						"smoothness": 1,
 						"texture": "res://packs/DZw7eElc/textures/paths/wall_wood_sill.png",
 						"width": 71,
-						"layer": 100,
+						"layer": 400,
 						"fade_in": false,
 						"fade_out": false,
 						"grow": false,
@@ -4696,12 +4879,389 @@
 				],
 				"objects": [
 					{
+						"position": "Vector2( 9626.21, 4348.37 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/fireplace_03.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "aa7"
+					},
+					{
+						"position": "Vector2( 8721.28, 2307.57 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Carpet_Round_Patterned_0c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff585858",
+						"node_id": "aa4"
+					},
+					{
+						"position": "Vector2( 9439.28, 2695.57 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Carpet_Simple_HexagonRect_Small_0c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff585858",
+						"node_id": "aa3"
+					},
+					{
+						"position": "Vector2( 9556.88, 2704.1 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/side_table_04.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a9f"
+					},
+					{
+						"position": "Vector2( 9018.88, 2470.1 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/storage_04.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a98"
+					},
+					{
+						"position": "Vector2( 8588.88, 2794.1 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Chair_Large_Sofa_0c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff585858",
+						"node_id": "a97"
+					},
+					{
+						"position": "Vector2( 7511.07, 4747.1 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/shelf_1b.png",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a86"
+					},
+					{
+						"position": "Vector2( 8086.25, 7430.26 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/candle_4.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a80"
+					},
+					{
+						"position": "Vector2( 8371.25, 7565.26 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/candle_2.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a7f"
+					},
+					{
+						"position": "Vector2( 8019.25, 7461.26 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/candle_3.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a7e"
+					},
+					{
+						"position": "Vector2( 8021.25, 7378.26 )",
+						"rotation": -1.832596,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Candle.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a7d"
+					},
+					{
+						"position": "Vector2( 8364.25, 7416.26 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a7c"
+					},
+					{
+						"position": "Vector2( 8348.31, 2456.59 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/loo_05.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a7b"
+					},
+					{
+						"position": "Vector2( 8194.71, 7565.39 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1.2, 1.2 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/loo_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a7a"
+					},
+					{
+						"position": "Vector2( 1178.71, 4233.66 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/loo_04.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a77"
+					},
+					{
+						"position": "Vector2( 856.713, 5605.32 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.3, 0.3 )",
+						"mirror": false,
+						"texture": "res://packs/VaJal7VY/textures/objects/blood_spatters_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a76"
+					},
+					{
+						"position": "Vector2( 1083.38, 5744.32 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.3, 0.3 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Blood_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a75"
+					},
+					{
+						"position": "Vector2( 1196.88, 5668.32 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.3, 0.3 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Blood_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a74"
+					},
+					{
+						"position": "Vector2( 1122.88, 5138.82 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.3, 0.3 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Blood_09.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a73"
+					},
+					{
+						"position": "Vector2( 1215.88, 5137.82 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.3, 0.3 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Blood_04.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a72"
+					},
+					{
+						"position": "Vector2( 974.88, 5343.82 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.3, 0.3 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Blood_11.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a71"
+					},
+					{
+						"position": "Vector2( 679.38, 5717.82 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.3, 0.3 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Blood_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a6f"
+					},
+					{
+						"position": "Vector2( 9215.94, 4220.71 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_02.png",
+						"layer": 300,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "98e"
+					},
+					{
+						"position": "Vector2( 2203.59, 3301.48 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/basket_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a04"
+					},
+					{
+						"position": "Vector2( 2128.59, 3300.48 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/basket_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a03"
+					},
+					{
+						"position": "Vector2( 2165.59, 3298.48 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/basket_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a02"
+					},
+					{
+						"position": "Vector2( 1669.59, 3720.48 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/basket_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a01"
+					},
+					{
+						"position": "Vector2( 3212.86, 3972.48 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/basket_1b.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9ff"
+					},
+					{
+						"position": "Vector2( 3214.19, 3969.81 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/basket_1b.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9fe"
+					},
+					{
+						"position": "Vector2( 2641.13, 4225.28 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/shelf_3a.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9fc"
+					},
+					{
+						"position": "Vector2( 642.616, 4587.76 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://textures/objects/decor/floor/rug_cow_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9e5"
+					},
+					{
+						"position": "Vector2( 743.016, 5627.63 )",
+						"rotation": 2.879793,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/animal_rug_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9d8"
+					},
+					{
+						"position": "Vector2( 710.753, 5114.81 )",
+						"rotation": 0.261802,
+						"scale": "Vector2( 0.664172, 0.664172 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/animal_rug_02.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9d7"
+					},
+					{
+						"position": "Vector2( 8130.16, 2856.45 )",
+						"rotation": 1.570783,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bath_Metal_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9c7"
+					},
+					{
 						"position": "Vector2( 8832, 4736 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_04.png",
-						"layer": 100,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "9a7"
@@ -4712,7 +5272,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_04.png",
-						"layer": 100,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "9a6"
@@ -4723,7 +5283,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_04.png",
-						"layer": 100,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "9a5"
@@ -4734,7 +5294,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_04.png",
-						"layer": 100,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "9a4"
@@ -4745,7 +5305,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_04.png",
-						"layer": 100,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "9a3"
@@ -4756,7 +5316,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_04.png",
-						"layer": 100,
+						"layer": 900,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "9a2"
@@ -4767,7 +5327,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_04.png",
-						"layer": 100,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "9a1"
@@ -4778,7 +5338,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_04.png",
-						"layer": 100,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "9a0"
@@ -4905,19 +5465,8 @@
 						"node_id": "947"
 					},
 					{
-						"position": "Vector2( 6777.41, 2946.01 )",
-						"rotation": 0.261799,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/plant_4a.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "91f"
-					},
-					{
-						"position": "Vector2( 7418.75, 2860.68 )",
-						"rotation": 0,
+						"position": "Vector2( 8231.65, 2050.04 )",
+						"rotation": -1.570794,
 						"scale": "Vector2( 0.7, 0.7 )",
 						"mirror": false,
 						"texture": "res://packs/eLzxN8nc/textures/objects/chair_08.png",
@@ -4969,28 +5518,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "8cd"
-					},
-					{
-						"position": "Vector2( 7040, 3072 )",
-						"rotation": 0,
-						"scale": "Vector2( -1.1, 1.1 )",
-						"mirror": true,
-						"texture": "res://packs/4YgtpczN/textures/objects/door_3b.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "8a6"
-					},
-					{
-						"position": "Vector2( 9344, 3072 )",
-						"rotation": 0,
-						"scale": "Vector2( 1.1, 1.1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/door_3b.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "8a5"
 					},
 					{
 						"position": "Vector2( 7808, 3584 )",
@@ -5145,17 +5672,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "896"
-					},
-					{
-						"position": "Vector2( 1024, 4864 )",
-						"rotation": 0,
-						"scale": "Vector2( 1.1, 1.1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/door_3b.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "895"
 					},
 					{
 						"position": "Vector2( 1024, 3584 )",
@@ -5332,17 +5848,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "65b"
-					},
-					{
-						"position": "Vector2( 9728, 1792 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/pillar_3c.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "65c"
 					},
 					{
 						"position": "Vector2( 9728, 7680 )",
@@ -5691,7 +6196,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "71a"
@@ -5702,7 +6207,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "71b"
@@ -5713,7 +6218,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "71c"
@@ -5724,7 +6229,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "71d"
@@ -5735,7 +6240,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "71e"
@@ -5746,7 +6251,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "71f"
@@ -5757,7 +6262,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "720"
@@ -5768,7 +6273,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "721"
@@ -5779,7 +6284,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "722"
@@ -5790,7 +6295,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "723"
@@ -5801,7 +6306,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "724"
@@ -5812,7 +6317,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "725"
@@ -5823,7 +6328,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "726"
@@ -5834,7 +6339,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "727"
@@ -5845,7 +6350,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "728"
@@ -5856,7 +6361,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "729"
@@ -5867,7 +6372,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "72a"
@@ -5878,7 +6383,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "72b"
@@ -5889,7 +6394,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "72c"
@@ -5900,7 +6405,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "72d"
@@ -5911,7 +6416,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "72e"
@@ -5922,7 +6427,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "72f"
@@ -5933,7 +6438,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "730"
@@ -5944,7 +6449,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "731"
@@ -5955,7 +6460,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "732"
@@ -5966,7 +6471,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "733"
@@ -5977,7 +6482,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "734"
@@ -5988,7 +6493,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "735"
@@ -5999,7 +6504,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "736"
@@ -6010,7 +6515,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "737"
@@ -6021,7 +6526,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "738"
@@ -6032,7 +6537,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/chair_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "739"
@@ -6637,7 +7142,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/barrel_side_2a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "77d"
@@ -6648,7 +7153,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/barrel_side_2a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "77e"
@@ -6659,7 +7164,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/eLzxN8nc/textures/objects/storage_04.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "77f"
@@ -6670,7 +7175,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/eLzxN8nc/textures/objects/storage_04.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "780"
@@ -6681,7 +7186,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/flower_6a.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "781"
@@ -6692,7 +7197,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/flower_4x.png",
-						"layer": 900,
+						"layer": 400,
 						"shadow": false,
 						"block_light": false,
 						"custom_color": "ff6b3834",
@@ -7537,39 +8042,6 @@
 						"node_id": "845"
 					},
 					{
-						"position": "Vector2( 7936, 3072 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/pillar_2c.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "846"
-					},
-					{
-						"position": "Vector2( 7936, 1792 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/pillar_2c.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "847"
-					},
-					{
-						"position": "Vector2( 8448, 1792 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/pillar_3c.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "848"
-					},
-					{
 						"position": "Vector2( 8448, 3072 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -7645,17 +8117,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "883"
-					},
-					{
-						"position": "Vector2( 1024, 4864 )",
-						"rotation": 0,
-						"scale": "Vector2( 1.1, 1.1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/door_frame_1a.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "884"
 					},
 					{
 						"position": "Vector2( 1024, 3584 )",
@@ -7755,28 +8216,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "88f"
-					},
-					{
-						"position": "Vector2( 7040, 3072 )",
-						"rotation": -3.141593,
-						"scale": "Vector2( 1.1, 1.1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/door_frame_1a.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "891"
-					},
-					{
-						"position": "Vector2( 9344, 3072 )",
-						"rotation": -3.141593,
-						"scale": "Vector2( 1.1, 1.1 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/door_frame_1a.png",
-						"layer": 700,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "892"
 					},
 					{
 						"position": "Vector2( 2048, 5888 )",
@@ -7948,17 +8387,6 @@
 						"block_light": false,
 						"custom_color": "ff6b3834",
 						"node_id": "8dc"
-					},
-					{
-						"position": "Vector2( 8195.57, 7556 )",
-						"rotation": -0.000009,
-						"scale": "Vector2( 1, -1 )",
-						"mirror": false,
-						"texture": "res://packs/DZw7eElc/textures/objects/Toilet_04.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "8de"
 					},
 					{
 						"position": "Vector2( 8191.8, 7271.7 )",
@@ -8374,8 +8802,8 @@
 						"node_id": "915"
 					},
 					{
-						"position": "Vector2( 7296.01, 2078.61 )",
-						"rotation": 0,
+						"position": "Vector2( 6950.95, 2444.08 )",
+						"rotation": -1.570794,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/xjCzavyl/textures/objects/bed_big_02.png",
@@ -8386,8 +8814,8 @@
 						"node_id": "916"
 					},
 					{
-						"position": "Vector2( 7840.01, 2429.01 )",
-						"rotation": 1.570796,
+						"position": "Vector2( 7824.51, 1890.51 )",
+						"rotation": 0.000002,
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/kwKf0idh/textures/objects/chest_06.png",
@@ -8397,8 +8825,8 @@
 						"node_id": "917"
 					},
 					{
-						"position": "Vector2( 7642.41, 1887.01 )",
-						"rotation": 0,
+						"position": "Vector2( 6759.35, 2097.67 )",
+						"rotation": -1.570794,
 						"scale": "Vector2( 0.7, 0.7 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/drawer_1a.png",
@@ -8408,10 +8836,10 @@
 						"node_id": "918"
 					},
 					{
-						"position": "Vector2( 6939.41, 1886.01 )",
-						"rotation": 0,
-						"scale": "Vector2( -0.7, 0.7 )",
-						"mirror": true,
+						"position": "Vector2( 6758.34, 2800.67 )",
+						"rotation": 1.570799,
+						"scale": "Vector2( 0.7, -0.7 )",
+						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/drawer_1a.png",
 						"layer": 900,
 						"shadow": false,
@@ -8419,8 +8847,8 @@
 						"node_id": "919"
 					},
 					{
-						"position": "Vector2( 7732.08, 2983.34 )",
-						"rotation": -3.141593,
+						"position": "Vector2( 7296.78, 1885.34 )",
+						"rotation": 0.000002,
 						"scale": "Vector2( 0.7, 0.7 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/armoire_1b.png",
@@ -8430,8 +8858,8 @@
 						"node_id": "91c"
 					},
 					{
-						"position": "Vector2( 7418.75, 2970.01 )",
-						"rotation": -3.141593,
+						"position": "Vector2( 8340.98, 2050.04 )",
+						"rotation": 1.570799,
 						"scale": "Vector2( 0.7, 0.7 )",
 						"mirror": false,
 						"texture": "res://packs/DZw7eElc/textures/objects/Desk_02.png",
@@ -8507,8 +8935,8 @@
 						"node_id": "925"
 					},
 					{
-						"position": "Vector2( 7636.61, 1882.94 )",
-						"rotation": -1.570796,
+						"position": "Vector2( 6755.28, 2103.47 )",
+						"rotation": -3.14159,
 						"scale": "Vector2( 0.7, 0.7 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
@@ -8518,8 +8946,8 @@
 						"node_id": "931"
 					},
 					{
-						"position": "Vector2( 6934.21, 1873.34 )",
-						"rotation": -1.570796,
+						"position": "Vector2( 6745.67, 2805.87 )",
+						"rotation": -3.14159,
 						"scale": "Vector2( 0.7, 0.7 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
@@ -8529,8 +8957,8 @@
 						"node_id": "932"
 					},
 					{
-						"position": "Vector2( 7286.21, 2977.34 )",
-						"rotation": 0.523599,
+						"position": "Vector2( 8348.31, 2182.58 )",
+						"rotation": -1.047195,
 						"scale": "Vector2( 0.7, 0.7 )",
 						"mirror": false,
 						"texture": "res://packs/4YgtpczN/textures/objects/candle_4.png",
@@ -8538,128 +8966,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "933"
-					},
-					{
-						"position": "Vector2( 9586.01, 2959.61 )",
-						"rotation": -1.308995,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/plant_4a.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "934"
-					},
-					{
-						"position": "Vector2( 8972.95, 2859.88 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/eLzxN8nc/textures/objects/chair_08.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "935"
-					},
-					{
-						"position": "Vector2( 9094.01, 2082.61 )",
-						"rotation": -0,
-						"scale": "Vector2( -1, 1 )",
-						"mirror": true,
-						"texture": "res://packs/xjCzavyl/textures/objects/bed_big_02.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff809dab",
-						"node_id": "936"
-					},
-					{
-						"position": "Vector2( 8539.81, 2446.41 )",
-						"rotation": -1.570793,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/kwKf0idh/textures/objects/chest_06.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "937"
-					},
-					{
-						"position": "Vector2( 9441.41, 1891.01 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/drawer_1a.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "938"
-					},
-					{
-						"position": "Vector2( 8738.41, 1890.01 )",
-						"rotation": 3.141593,
-						"scale": "Vector2( 0.7, -0.7 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/drawer_1a.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "939"
-					},
-					{
-						"position": "Vector2( 8638.28, 2982.54 )",
-						"rotation": 3.141592,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/armoire_1b.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "93a"
-					},
-					{
-						"position": "Vector2( 8972.95, 2969.21 )",
-						"rotation": 3.141592,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/DZw7eElc/textures/objects/Desk_02.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "93b"
-					},
-					{
-						"position": "Vector2( 9435.61, 1886.94 )",
-						"rotation": -1.570796,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "93c"
-					},
-					{
-						"position": "Vector2( 8733.21, 1877.34 )",
-						"rotation": -1.570796,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "93d"
-					},
-					{
-						"position": "Vector2( 8840.41, 2976.54 )",
-						"rotation": 0.523599,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/4YgtpczN/textures/objects/candle_4.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "93e"
 					},
 					{
 						"position": "Vector2( 2944, 3840 )",
@@ -8799,7 +9105,7 @@
 						"scale": "Vector2( 1, 1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_02.png",
-						"layer": 900,
+						"layer": 300,
 						"shadow": false,
 						"block_light": false,
 						"node_id": "985"
@@ -8838,15 +9144,1234 @@
 						"node_id": "98b"
 					},
 					{
-						"position": "Vector2( 9215.94, 4220.71 )",
+						"position": "Vector2( 849.815, 6232.65 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/piano_2a.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9aa"
+					},
+					{
+						"position": "Vector2( 1031.15, 6517.98 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pianoseat.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9ab"
+					},
+					{
+						"position": "Vector2( 7040, 3072 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/door_frame_1a.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9b4"
+					},
+					{
+						"position": "Vector2( 9216, 3072 )",
 						"rotation": -1.570796,
 						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pillar_1c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9b8"
+					},
+					{
+						"position": "Vector2( 7680, 2304 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pillar_1c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9bb"
+					},
+					{
+						"position": "Vector2( 6777.41, 2946.01 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/plant_4a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "91f"
+					},
+					{
+						"position": "Vector2( 6767.39, 1924.58 )",
+						"rotation": -2.356192,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/plant_4a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9bd"
+					},
+					{
+						"position": "Vector2( 7677.39, 2931.58 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/door_frame_1a.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9bf"
+					},
+					{
+						"position": "Vector2( 7680, 3072 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pillar_3c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9bc"
+					},
+					{
+						"position": "Vector2( 8037.91, 2511.65 )",
+						"rotation": 1.57079,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4UcCbKRJ/textures/objects/door_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9c1"
+					},
+					{
+						"position": "Vector2( 8051.24, 2596.94 )",
+						"rotation": -1.570803,
+						"scale": "Vector2( 1, -1 )",
 						"mirror": false,
 						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_02.png",
 						"layer": 900,
 						"shadow": false,
 						"block_light": false,
-						"node_id": "98e"
+						"node_id": "9c2"
+					},
+					{
+						"position": "Vector2( 8051.23, 2337.89 )",
+						"rotation": -1.570803,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9c3"
+					},
+					{
+						"position": "Vector2( 8450.06, 2600.25 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pillar_1c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9c5"
+					},
+					{
+						"position": "Vector2( 7908.41, 2838.58 )",
+						"rotation": -1.570795,
+						"scale": "Vector2( 1.1, 1.1 )",
+						"mirror": false,
+						"texture": "res://packs/jeeh3kgP/textures/objects/Path_Carpet_Purple_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9c6"
+					},
+					{
+						"position": "Vector2( 7300.69, 2459.05 )",
+						"rotation": -1.570797,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4guvgjfh/textures/objects/carpet_colorable_02.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff809dab",
+						"node_id": "9ca"
+					},
+					{
+						"position": "Vector2( 7796.35, 2429.9 )",
+						"rotation": 2.879785,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/sidetable_2c.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9cd"
+					},
+					{
+						"position": "Vector2( 7784.88, 2418.04 )",
+						"rotation": -1.570805,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/candle_4.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9ce"
+					},
+					{
+						"position": "Vector2( 544.982, 5353.16 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/bed_big_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffae9254",
+						"node_id": "9d0"
+					},
+					{
+						"position": "Vector2( 359.55, 5738.16 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/sidetable_2c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9d1"
+					},
+					{
+						"position": "Vector2( 348.35, 5733.36 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9d2"
+					},
+					{
+						"position": "Vector2( 364.883, 5052.83 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/sidetable_2c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9d4"
+					},
+					{
+						"position": "Vector2( 441.256, 4546.43 )",
+						"rotation": 3.141585,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bath_Metal_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9d9"
+					},
+					{
+						"position": "Vector2( 1119.26, 4714.13 )",
+						"rotation": 2.356185,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/basket_1b.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9da"
+					},
+					{
+						"position": "Vector2( 1128.86, 4701.42 )",
+						"rotation": -1.570806,
+						"scale": "Vector2( 0.8, -0.8 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Shirt_Folded_0c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffd8c888",
+						"node_id": "9db"
+					},
+					{
+						"position": "Vector2( 1106.96, 4719.27 )",
+						"rotation": -1.189678,
+						"scale": "Vector2( 0.8, -0.8 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Shirt_Folded_0c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ffae9254",
+						"node_id": "9dc"
+					},
+					{
+						"position": "Vector2( 889.246, 4256.43 )",
+						"rotation": 1.570789,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4UcCbKRJ/textures/objects/door_01.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9df"
+					},
+					{
+						"position": "Vector2( 897.246, 4352.93 )",
+						"rotation": -1.570804,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/wall_shipwood5_pillar_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9e0"
+					},
+					{
+						"position": "Vector2( 375.246, 4220.43 )",
+						"rotation": 1.832588,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/sidetable_2c.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9e1"
+					},
+					{
+						"position": "Vector2( 359.246, 4224.43 )",
+						"rotation": -2.618001,
+						"scale": "Vector2( 1, -1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/candle_4.png",
+						"layer": 100,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9e2"
+					},
+					{
+						"position": "Vector2( 2944, 4992 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1.7, 1.7 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/stairs_round_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9f3"
+					},
+					{
+						"position": "Vector2( 7040, 4992 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( -1.7, 1.7 )",
+						"mirror": true,
+						"texture": "res://packs/xjCzavyl/textures/objects/stairs_round_01.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9f4"
+					},
+					{
+						"position": "Vector2( 7582.61, 1912.96 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Book_Recipe_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a0b"
+					},
+					{
+						"position": "Vector2( 8337.81, 1967.36 )",
+						"rotation": 1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/book_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a0c"
+					},
+					{
+						"position": "Vector2( 7617.81, 2466.56 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/book_29.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a0d"
+					},
+					{
+						"position": "Vector2( 7609.81, 2636.16 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/book_30.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a0e"
+					},
+					{
+						"position": "Vector2( 7545.81, 2290.56 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/book_04.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a0f"
+					},
+					{
+						"position": "Vector2( 7521.81, 2282.56 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/book_05.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a10"
+					},
+					{
+						"position": "Vector2( 7361.68, 2970.69 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/book_16.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a11"
+					},
+					{
+						"position": "Vector2( 7365.01, 2971.36 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/book_15.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a12"
+					},
+					{
+						"position": "Vector2( 7493.01, 2964.69 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/book_11.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a13"
+					},
+					{
+						"position": "Vector2( 7501.01, 2969.36 )",
+						"rotation": 1.832596,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/book_09.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a14"
+					},
+					{
+						"position": "Vector2( 7487.01, 2959.36 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/book_13.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a15"
+					},
+					{
+						"position": "Vector2( 6891.21, 1945.56 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/book_01.png",
+						"layer": 400,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a16"
+					},
+					{
+						"position": "Vector2( 841.478, 4863.49 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/door_frame_1a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a18"
+					},
+					{
+						"position": "Vector2( 353.683, 5048.03 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9d5"
+					},
+					{
+						"position": "Vector2( 1064.35, 4952.12 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/bottle_04.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a45"
+					},
+					{
+						"position": "Vector2( 1118.35, 4926.62 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/bottle_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a46"
+					},
+					{
+						"position": "Vector2( 1122.85, 5012.62 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/bottle_08.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a47"
+					},
+					{
+						"position": "Vector2( 1075.85, 5007.62 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/bottle_09.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a48"
+					},
+					{
+						"position": "Vector2( 1096.85, 5019.62 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/cup_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a49"
+					},
+					{
+						"position": "Vector2( 1213.35, 5018.12 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/bottle_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a4a"
+					},
+					{
+						"position": "Vector2( 1185.85, 5101.62 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/bottle_08.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a4b"
+					},
+					{
+						"position": "Vector2( 1145.35, 5091.62 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/kt201FMq/textures/objects/bottle_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a4c"
+					},
+					{
+						"position": "Vector2( 918.346, 5377.12 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/bottle_side_1c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a4d"
+					},
+					{
+						"position": "Vector2( 921.846, 5416.62 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/bottle_side_2a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a4e"
+					},
+					{
+						"position": "Vector2( 848.846, 5362.12 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/bottle_4c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a4f"
+					},
+					{
+						"position": "Vector2( 851.846, 5417.12 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/bottle_4b.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a50"
+					},
+					{
+						"position": "Vector2( 821.846, 5390.12 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/bottle_3a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a51"
+					},
+					{
+						"position": "Vector2( 889.346, 5404.12 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/bottle_1a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a52"
+					},
+					{
+						"position": "Vector2( 869.846, 5450.12 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/bottle_4c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a53"
+					},
+					{
+						"position": "Vector2( 896.846, 5472.12 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 0.6, 0.6 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/bottle_3b.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a54"
+					},
+					{
+						"position": "Vector2( 833.346, 5463.12 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/glas_1a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a55"
+					},
+					{
+						"position": "Vector2( 448.346, 5656.62 )",
+						"rotation": 2.879793,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/mug_side_1a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a56"
+					},
+					{
+						"position": "Vector2( 383.346, 5701.62 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/cup_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a58"
+					},
+					{
+						"position": "Vector2( 836.846, 5642.62 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Cask.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a59"
+					},
+					{
+						"position": "Vector2( 621.846, 4924.62 )",
+						"rotation": 1.047198,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Mug_Side.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a5a"
+					},
+					{
+						"position": "Vector2( 472.846, 5097.62 )",
+						"rotation": -1.832596,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Food_Cheese_Wheel.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a5b"
+					},
+					{
+						"position": "Vector2( 513.846, 5106.62 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Food_Bread_Roll.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a5c"
+					},
+					{
+						"position": "Vector2( 722.846, 5739.62 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Side_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a5d"
+					},
+					{
+						"position": "Vector2( 1175.85, 5734.62 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Beaker_Circle_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a5e"
+					},
+					{
+						"position": "Vector2( 1221.85, 5756.62 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_07.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a5f"
+					},
+					{
+						"position": "Vector2( 1203.35, 5776.62 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_06.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a60"
+					},
+					{
+						"position": "Vector2( 1175.35, 5789.62 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_05.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a61"
+					},
+					{
+						"position": "Vector2( 1233.85, 5781.12 )",
+						"rotation": -0.785398,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a62"
+					},
+					{
+						"position": "Vector2( 1232.35, 5810.62 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_05.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a63"
+					},
+					{
+						"position": "Vector2( 1196.35, 5803.62 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_06.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a64"
+					},
+					{
+						"position": "Vector2( 1208.35, 5827.62 )",
+						"rotation": -1.047198,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_04.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a65"
+					},
+					{
+						"position": "Vector2( 1156.85, 5813.12 )",
+						"rotation": -1.832596,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_07.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a66"
+					},
+					{
+						"position": "Vector2( 1180.35, 5822.62 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a67"
+					},
+					{
+						"position": "Vector2( 1098.85, 5802.12 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a68"
+					},
+					{
+						"position": "Vector2( 1118.85, 5820.12 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a69"
+					},
+					{
+						"position": "Vector2( 1084.85, 5838.12 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Top_07.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a6a"
+					},
+					{
+						"position": "Vector2( 1219.18, 5698.76 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Side_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a6b"
+					},
+					{
+						"position": "Vector2( 1050.51, 5779.42 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Bottle_Side_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a6c"
+					},
+					{
+						"position": "Vector2( 7590.58, 7230.29 )",
+						"rotation": 0.261799,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Slime_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a81"
+					},
+					{
+						"position": "Vector2( 7278.58, 7362.29 )",
+						"rotation": -2.617994,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Slime_04.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a82"
+					},
+					{
+						"position": "Vector2( 7619.91, 7314.29 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 0.4, 0.4 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Slime_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a83"
+					},
+					{
+						"position": "Vector2( 7808, 4992 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/piano.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a84"
+					},
+					{
+						"position": "Vector2( 7805.47, 4848.7 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pianoseat.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a85"
+					},
+					{
+						"position": "Vector2( 7529.74, 4681.77 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/instrument_1a.png",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a87"
+					},
+					{
+						"position": "Vector2( 7525.74, 4841.77 )",
+						"rotation": -1.308997,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/flute_1a.png",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a88"
+					},
+					{
+						"position": "Vector2( 7513.74, 4904.43 )",
+						"rotation": 0,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Instrument_Lute_02.png",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a89"
+					},
+					{
+						"position": "Vector2( 8163.07, 4680.43 )",
+						"rotation": 2.356194,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pianoseat.png",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a8b"
+					},
+					{
+						"position": "Vector2( 8089.74, 4537.77 )",
+						"rotation": -0.261799,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Instrument_Harp.png",
+						"layer": 200,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a8c"
+					},
+					{
+						"position": "Vector2( 7296, 4096 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Chair_Large_Sofa_0c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff585858",
+						"node_id": "a8d"
+					},
+					{
+						"position": "Vector2( 9395.68, 3071.57 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/door_frame_1a.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a90"
+					},
+					{
+						"position": "Vector2( 9051.68, 3073.57 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/door_frame_1a.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a91"
+					},
+					{
+						"position": "Vector2( 9344, 2048 )",
+						"rotation": -0.000002,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/bed_big_02.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff585858",
+						"node_id": "a92"
+					},
+					{
+						"position": "Vector2( 8706.42, 2064.55 )",
+						"rotation": 1.570795,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/bed_big_02.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff585858",
+						"node_id": "a93"
+					},
+					{
+						"position": "Vector2( 9728, 1792 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pillar_3c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "65c"
+					},
+					{
+						"position": "Vector2( 8448, 1792 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pillar_3c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "848"
+					},
+					{
+						"position": "Vector2( 8960, 1792 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pillar_3c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9b6"
+					},
+					{
+						"position": "Vector2( 8448, 2304 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/pillar_2c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "9ba"
+					},
+					{
+						"position": "Vector2( 9578.88, 2928.1 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Chair_Sofa_0c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff585858",
+						"node_id": "a95"
+					},
+					{
+						"position": "Vector2( 9580.88, 2494.1 )",
+						"rotation": 0.785398,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Chair_Sofa_0c.png",
+						"layer": 700,
+						"shadow": false,
+						"block_light": false,
+						"custom_color": "ff585858",
+						"node_id": "a96"
+					},
+					{
+						"position": "Vector2( 9057.28, 1909.5 )",
+						"rotation": -0.000001,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/sidetable_2c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a99"
+					},
+					{
+						"position": "Vector2( 9062.08, 1898.3 )",
+						"rotation": 1.570795,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a9a"
+					},
+					{
+						"position": "Vector2( 9623.28, 1909.5 )",
+						"rotation": -0.000001,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/sidetable_2c.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a9c"
+					},
+					{
+						"position": "Vector2( 9628.08, 1898.3 )",
+						"rotation": 1.570795,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a9d"
+					},
+					{
+						"position": "Vector2( 8816.98, 2800.89 )",
+						"rotation": 1.602256,
+						"scale": "Vector2( 0.574534, 0.574534 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Table_Coffee_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "aa0"
+					},
+					{
+						"position": "Vector2( 8820.72, 2802.66 )",
+						"rotation": 0.523599,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "aa1"
 					}
 				],
 				"lights": [
@@ -9071,8 +10596,8 @@
 						"node_id": "92b"
 					},
 					{
-						"position": "Vector2( 7308.61, 2966.14 )",
-						"rotation": 0,
+						"position": "Vector2( 8337.11, 2160.18 )",
+						"rotation": -1.570794,
 						"range": 3,
 						"intensity": 0.7,
 						"color": "ffeccd8b",
@@ -9081,8 +10606,8 @@
 						"node_id": "92c"
 					},
 					{
-						"position": "Vector2( 6945.41, 1890.94 )",
-						"rotation": 0,
+						"position": "Vector2( 6763.27, 2794.67 )",
+						"rotation": -1.570794,
 						"range": 1.5,
 						"intensity": 0.7,
 						"color": "ffeccd8b",
@@ -9091,44 +10616,14 @@
 						"node_id": "92d"
 					},
 					{
-						"position": "Vector2( 7635.01, 1878.14 )",
-						"rotation": 0,
+						"position": "Vector2( 6750.48, 2105.07 )",
+						"rotation": -1.570794,
 						"range": 1.5,
 						"intensity": 0.7,
 						"color": "ffeccd8b",
 						"texture": "res://textures/lights/point.png",
 						"shadows": true,
 						"node_id": "92e"
-					},
-					{
-						"position": "Vector2( 8862.81, 2965.34 )",
-						"rotation": 0,
-						"range": 3,
-						"intensity": 0.7,
-						"color": "ffeccd8b",
-						"texture": "res://textures/lights/point.png",
-						"shadows": true,
-						"node_id": "93f"
-					},
-					{
-						"position": "Vector2( 8744.41, 1894.94 )",
-						"rotation": 0,
-						"range": 1.5,
-						"intensity": 0.7,
-						"color": "ffeccd8b",
-						"texture": "res://textures/lights/point.png",
-						"shadows": true,
-						"node_id": "940"
-					},
-					{
-						"position": "Vector2( 9434.01, 1882.14 )",
-						"rotation": 0,
-						"range": 1.5,
-						"intensity": 0.7,
-						"color": "ffeccd8b",
-						"texture": "res://textures/lights/point.png",
-						"shadows": true,
-						"node_id": "941"
 					},
 					{
 						"position": "Vector2( 2187.84, 3195.47 )",
@@ -9141,24 +10636,224 @@
 						"node_id": "96c"
 					},
 					{
-						"position": "Vector2( 8537.24, 4234.31 )",
-						"rotation": 0,
-						"range": 2.5,
+						"position": "Vector2( 7803.53, 2450.45 )",
+						"rotation": -2.094404,
+						"range": 3,
 						"intensity": 0.5,
 						"color": "ffeccd8b",
 						"texture": "res://textures/lights/fragments.png",
 						"shadows": true,
-						"node_id": "994"
+						"node_id": "9cf"
 					},
 					{
-						"position": "Vector2( 9121.24, 4221.51 )",
+						"position": "Vector2( 348.35, 5734.96 )",
 						"rotation": 0,
-						"range": 2.5,
+						"range": 3,
 						"intensity": 0.5,
 						"color": "ffeccd8b",
 						"texture": "res://textures/lights/fragments.png",
 						"shadows": true,
-						"node_id": "995"
+						"node_id": "9d3"
+					},
+					{
+						"position": "Vector2( 358.483, 5043.23 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "9d6"
+					},
+					{
+						"position": "Vector2( 431.246, 4308.43 )",
+						"rotation": 3.141585,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "9e3"
+					},
+					{
+						"position": "Vector2( 9066.88, 1903.1 )",
+						"rotation": 1.570795,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "a9b"
+					},
+					{
+						"position": "Vector2( 9632.88, 1903.1 )",
+						"rotation": 1.570795,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "a9e"
+					},
+					{
+						"position": "Vector2( 8827.28, 2800.9 )",
+						"rotation": 0.523599,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aa2"
+					},
+					{
+						"position": "Vector2( 1933.14, 4474.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aa8"
+					},
+					{
+						"position": "Vector2( 1925.14, 5250.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aa9"
+					},
+					{
+						"position": "Vector2( 913.138, 3850.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aaa"
+					},
+					{
+						"position": "Vector2( 3585.14, 5610.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aab"
+					},
+					{
+						"position": "Vector2( 3593.14, 4478.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aac"
+					},
+					{
+						"position": "Vector2( 4997.14, 5342.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aad"
+					},
+					{
+						"position": "Vector2( 6401.14, 5622.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aae"
+					},
+					{
+						"position": "Vector2( 6657.14, 4350.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "aaf"
+					},
+					{
+						"position": "Vector2( 7421.14, 3314.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "ab0"
+					},
+					{
+						"position": "Vector2( 8949.14, 3314.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "ab1"
+					},
+					{
+						"position": "Vector2( 9537.14, 4342.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "ab2"
+					},
+					{
+						"position": "Vector2( 7799.14, 4352.9 )",
+						"rotation": 0.000002,
+						"range": 3,
+						"intensity": 0.7,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/soft.png",
+						"shadows": true,
+						"node_id": "ab3"
+					},
+					{
+						"position": "Vector2( 9089.14, 4350.9 )",
+						"rotation": 0.000002,
+						"range": 3,
+						"intensity": 0.7,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/soft.png",
+						"shadows": true,
+						"node_id": "ab4"
+					},
+					{
+						"position": "Vector2( 7937.14, 5374.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "ab5"
+					},
+					{
+						"position": "Vector2( 9229.14, 5370.9 )",
+						"rotation": 0,
+						"range": 3,
+						"intensity": 0.5,
+						"color": "ffeccd8b",
+						"texture": "res://textures/lights/fragments.png",
+						"shadows": true,
+						"node_id": "ab6"
 					}
 				],
 				"roofs": {
@@ -10413,27 +12108,27 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"3": "res://textures/tilesets/simple/tileset_concrete.png",
-						"4": "res://textures/tilesets/simple/tileset_cobble.png",
-						"5": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"6": "res://textures/tilesets/simple/tileset_cave.png",
-						"7": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
-						"8": "res://textures/tilesets/simple/tileset_carpet.png",
-						"9": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"10": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"11": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"12": "res://textures/tilesets/simple/tileset_sewers.png",
+						"2": "res://textures/tilesets/simple/tileset_cut_stone.png",
+						"3": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"4": "res://textures/tilesets/simple/tileset_concrete.png",
+						"5": "res://textures/tilesets/simple/tileset_cobble.png",
+						"6": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"7": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"8": "res://textures/tilesets/simple/tileset_diamond.png",
+						"9": "res://textures/tilesets/simple/tileset_cave.png",
+						"10": "res://textures/tilesets/simple/tileset_carpet.png",
+						"11": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"12": "res://textures/tilesets/simple/tileset_concrete_large.png",
 						"13": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"14": "res://textures/tilesets/simple/tileset_diamond.png",
+						"14": "res://textures/tilesets/simple/tileset_straw.png",
 						"15": "res://textures/tilesets/simple/tileset_diamond_2.png",
-						"16": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"17": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"18": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"19": "res://textures/tilesets/simple/tileset_ornate.png",
-						"20": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
-						"21": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"22": "res://textures/tilesets/simple/tileset_straw.png",
+						"16": "res://textures/tilesets/simple/tileset_sewers.png",
+						"17": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"18": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"19": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"20": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"21": "res://textures/tilesets/simple/tileset_ornate.png",
+						"22": "res://textures/tilesets/simple/tileset_roman_tiles.png",
 						"23": "res://textures/tilesets/simple/tileset_wood_damaged.png",
 						"24": "res://packs/kt201FMq/textures/tilesets/simple/ch_stone.png",
 						"25": "res://packs/kt201FMq/textures/tilesets/simple/ch_wood.png"
@@ -10777,7 +12472,7 @@
 						"node_id": "400"
 					},
 					{
-						"position": "Vector2( -3072, -1536 )",
+						"position": "Vector2( -3074.67, -1536 )",
 						"shape_rotation": 0,
 						"scale": "Vector2( 1, 1 )",
 						"points": "PoolVector2Array( 3328, 8192, 4352, 8192, 4352, 9216, 3328, 9216 )",
@@ -14457,6 +16152,28 @@
 					}
 				],
 				"objects": [
+					{
+						"position": "Vector2( 7024.05, 6021.79 )",
+						"rotation": -1.570796,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/loo_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a79"
+					},
+					{
+						"position": "Vector2( 1175.18, 6020.86 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.9, 0.9 )",
+						"mirror": false,
+						"texture": "res://packs/BYcn0rLD/textures/objects/loo_04.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a78"
+					},
 					{
 						"position": "Vector2( 4992, 11904 )",
 						"rotation": -3.141593,
@@ -19340,17 +21057,6 @@
 						"node_id": "395"
 					},
 					{
-						"position": "Vector2( 7040, 6016 )",
-						"rotation": -1.570796,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/DZw7eElc/textures/objects/Toilet_04.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "396"
-					},
-					{
 						"position": "Vector2( 7297.1, 6043.76 )",
 						"rotation": -1.570796,
 						"scale": "Vector2( -1, 1 )",
@@ -20213,17 +21919,6 @@
 						"node_id": "413"
 					},
 					{
-						"position": "Vector2( 1152.1, 6023.24 )",
-						"rotation": -1.570804,
-						"scale": "Vector2( 1, -1 )",
-						"mirror": false,
-						"texture": "res://packs/DZw7eElc/textures/objects/Toilet_04.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "414"
-					},
-					{
 						"position": "Vector2( 895, 6051.01 )",
 						"rotation": 1.570789,
 						"scale": "Vector2( 1, 1 )",
@@ -20266,17 +21961,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "418"
-					},
-					{
-						"position": "Vector2( 364.09, 6791.48 )",
-						"rotation": 0,
-						"scale": "Vector2( 1, 1 )",
-						"mirror": false,
-						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
-						"layer": 900,
-						"shadow": false,
-						"block_light": false,
-						"node_id": "41f"
 					},
 					{
 						"position": "Vector2( 370.49, 7540.28 )",
@@ -23330,6 +25014,193 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "631"
+					},
+					{
+						"position": "Vector2( 420.678, 7604.29 )",
+						"rotation": -2.356194,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/weapon_s_9b.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a23"
+					},
+					{
+						"position": "Vector2( 1151.5, 6860.53 )",
+						"rotation": -2.094395,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/weapon_rack_04.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a34"
+					},
+					{
+						"position": "Vector2( 1213.66, 7400.14 )",
+						"rotation": 0.000001,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/weapon_rack_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a35"
+					},
+					{
+						"position": "Vector2( 1108.71, 6744.82 )",
+						"rotation": 1.570796,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/weapon_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a36"
+					},
+					{
+						"position": "Vector2( 1054.13, 6743.08 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/knife_04.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a37"
+					},
+					{
+						"position": "Vector2( 1053.43, 7524.02 )",
+						"rotation": 2.617993,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/eLzxN8nc/textures/objects/target_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a38"
+					},
+					{
+						"position": "Vector2( 1049.55, 7484.74 )",
+						"rotation": 0.261798,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Weapon_Sword_07.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a39"
+					},
+					{
+						"position": "Vector2( 1022.58, 7486.11 )",
+						"rotation": -0.785399,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Weapon_Sword_06.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a3a"
+					},
+					{
+						"position": "Vector2( 1019.81, 7499.06 )",
+						"rotation": -0.5236,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/arrows_01.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a3b"
+					},
+					{
+						"position": "Vector2( 979.345, 7519.66 )",
+						"rotation": -1.308998,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/DZw7eElc/textures/objects/Weapon_Sword_05.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a3c"
+					},
+					{
+						"position": "Vector2( 531.104, 6763.83 )",
+						"rotation": -0.261796,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/dummy_2a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a3d"
+					},
+					{
+						"position": "Vector2( 514.414, 6782.69 )",
+						"rotation": -2.879793,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/arrow_02.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a40"
+					},
+					{
+						"position": "Vector2( 549.914, 6786.19 )",
+						"rotation": 2.617994,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/arrow_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a41"
+					},
+					{
+						"position": "Vector2( 569.414, 6768.19 )",
+						"rotation": 2.094395,
+						"scale": "Vector2( 0.5, 0.5 )",
+						"mirror": false,
+						"texture": "res://packs/xjCzavyl/textures/objects/arrow_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a42"
+					},
+					{
+						"position": "Vector2( 537.914, 6790.19 )",
+						"rotation": -3.141593,
+						"scale": "Vector2( -0.5, 0.5 )",
+						"mirror": true,
+						"texture": "res://packs/xjCzavyl/textures/objects/arrow_03.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a43"
+					},
+					{
+						"position": "Vector2( 386.15, 6792.28 )",
+						"rotation": -0.523599,
+						"scale": "Vector2( 0.7, 0.7 )",
+						"mirror": false,
+						"texture": "res://packs/4YgtpczN/textures/objects/weapon_4a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "a44"
+					},
+					{
+						"position": "Vector2( 364.09, 6791.48 )",
+						"rotation": 0,
+						"scale": "Vector2( 1, 1 )",
+						"mirror": false,
+						"texture": "res://packs/3nTAliog/textures/objects/candles_01a.png",
+						"layer": 900,
+						"shadow": false,
+						"block_light": false,
+						"node_id": "41f"
 					}
 				],
 				"lights": [
@@ -23664,7 +25535,7 @@
 						"node_id": "41a"
 					},
 					{
-						"position": "Vector2( 364.09, 6788.28 )",
+						"position": "Vector2( 370.757, 6785.61 )",
 						"rotation": 0,
 						"range": 3,
 						"intensity": 0.5,
