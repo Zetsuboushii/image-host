@@ -380,15 +380,10 @@
 		],
 		"editor_state": {
 			"current_level": 0,
-			"camera_position": "Vector2( 1871.25, 3695.16 )",
-			"camera_zoom": 3.2,
+			"camera_position": "Vector2( 2782.72, 2572.29 )",
+			"camera_zoom": 2.666667,
 			"guide_position": "null",
-			"trace_image": {
-				"image": "C:\\Users\\lukeg\\Desktop\\Notebook 6\\Notebook 6 - page 1.png",
-				"scale": 2.55,
-				"opacity": 0.01,
-				"position": "Vector2( 2508, 2140 )"
-			},
+			"trace_image": null,
 			"color_palettes": {
 				"object_custom_colors": [
 					"ff6b3834",
@@ -560,7 +555,7 @@
 			"0": {
 				"label": "Ground",
 				"environment": {
-					"baked_lighting": true,
+					"baked_lighting": false,
 					"ambient_light": "ffffffff"
 				},
 				"layers": {
@@ -988,28 +983,28 @@
 					"lookup": {
 						"0": "res://textures/tilesets/smart/tileset_wood_vertical.png",
 						"1": "res://textures/tilesets/smart_double/tileset_stone.png",
-						"2": "res://textures/tilesets/simple/tileset_carpet.png",
-						"3": "res://textures/tilesets/simple/tileset_concrete_slab.png",
-						"4": "res://textures/tilesets/simple/tileset_concrete_large.png",
-						"5": "res://textures/tilesets/simple/tileset_cobble.png",
-						"6": "res://textures/tilesets/simple/tileset_cave.png",
-						"7": "res://textures/tilesets/simple/tileset_brick_worn.png",
-						"8": "res://textures/tilesets/simple/tileset_concrete.png",
-						"9": "res://textures/tilesets/simple/tileset_brick_running.png",
-						"10": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"2": "res://textures/tilesets/simple/tileset_cave.png",
+						"3": "res://textures/tilesets/simple/tileset_brick_worn.png",
+						"4": "res://textures/tilesets/simple/tileset_concrete_slab.png",
+						"5": "res://textures/tilesets/simple/tileset_brick_basketweave.png",
+						"6": "res://textures/tilesets/simple/tileset_cobble.png",
+						"7": "res://textures/tilesets/simple/tileset_concrete.png",
+						"8": "res://textures/tilesets/simple/tileset_brick_running.png",
+						"9": "res://textures/tilesets/simple/tileset_concrete_large.png",
+						"10": "res://textures/tilesets/simple/tileset_carpet.png",
 						"11": "res://textures/tilesets/simple/tileset_cut_stone.png",
-						"12": "res://textures/tilesets/simple/tileset_plank_45.png",
-						"13": "res://textures/tilesets/simple/tileset_herringbone.png",
-						"14": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"12": "res://textures/tilesets/simple/tileset_herringbone.png",
+						"13": "res://textures/tilesets/simple/tileset_diamond_2.png",
+						"14": "res://textures/tilesets/simple/tileset_sewers.png",
 						"15": "res://textures/tilesets/simple/tileset_roman_tiles.png",
-						"16": "res://textures/tilesets/simple/tileset_sewers.png",
-						"17": "res://textures/tilesets/simple/tileset_diamond.png",
-						"18": "res://textures/tilesets/simple/tileset_ornate.png",
-						"19": "res://textures/tilesets/simple/tileset_roman_worn.png",
-						"20": "res://textures/tilesets/simple/tileset_straw.png",
-						"21": "res://textures/tilesets/simple/tileset_wood_damaged.png",
-						"22": "res://textures/tilesets/simple/tileset_worn_cobble.png",
-						"23": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"16": "res://textures/tilesets/simple/tileset_plank_45.png",
+						"17": "res://textures/tilesets/simple/tileset_ornate.png",
+						"18": "res://textures/tilesets/simple/tileset_roman_worn.png",
+						"19": "res://textures/tilesets/simple/tileset_diamond.png",
+						"20": "res://textures/tilesets/simple/tileset_worn_cobble.png",
+						"21": "res://textures/tilesets/simple/tileset_straw.png",
+						"22": "res://textures/tilesets/simple/tileset_wood_interlaced.png",
+						"23": "res://textures/tilesets/simple/tileset_wood_damaged.png",
 						"24": "res://packs/kt201FMq/textures/tilesets/simple/ch_stone.png",
 						"25": "res://packs/kt201FMq/textures/tilesets/simple/ch_wood.png"
 					}
@@ -3459,18 +3454,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "634"
-					},
-					{
-						"position": "Vector2( 1803.64, 2515.43 )",
-						"rotation": 0,
-						"scale": "Vector2( -0.7, 0.7 )",
-						"mirror": true,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_1a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "5e7"
 					},
 					{
 						"position": "Vector2( 1305.15, 1343.46 )",
@@ -19655,90 +19638,6 @@
 						"node_id": "5ba"
 					},
 					{
-						"position": "Vector2( 1192.08, 1768.29 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5bd"
-					},
-					{
-						"position": "Vector2( 1514.08, 785.625 )",
-						"rotation": 0,
-						"scale": "Vector2( -0.7, 0.7 )",
-						"mirror": true,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5be"
-					},
-					{
-						"position": "Vector2( 2854.08, 1793.79 )",
-						"rotation": 0,
-						"scale": "Vector2( -0.7, 0.7 )",
-						"mirror": true,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5c0"
-					},
-					{
-						"position": "Vector2( 2761.58, 1793.29 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5c1"
-					},
-					{
-						"position": "Vector2( 2808.91, 1821.29 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/tower.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5c4"
-					},
-					{
-						"position": "Vector2( 2495.91, 982.792 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5c5"
-					},
-					{
-						"position": "Vector2( 1871.41, 1593.29 )",
-						"rotation": 0,
-						"scale": "Vector2( -0.7, 0.7 )",
-						"mirror": true,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5c6"
-					},
-					{
 						"position": "Vector2( 1862.99, 1645.02 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -20245,90 +20144,6 @@
 						"node_id": "212"
 					},
 					{
-						"position": "Vector2( 3544.58, 1997.46 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5c7"
-					},
-					{
-						"position": "Vector2( 1236.58, 1719.63 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff786878",
-						"node_id": "5c8"
-					},
-					{
-						"position": "Vector2( 1546.75, 1851.79 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_1a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff786878",
-						"node_id": "5ca"
-					},
-					{
-						"position": "Vector2( 1048.48, 2406.46 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_2a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff786878",
-						"node_id": "5cb"
-					},
-					{
-						"position": "Vector2( 1619.81, 1512.46 )",
-						"rotation": 0,
-						"scale": "Vector2( -0.7, 0.7 )",
-						"mirror": true,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_2a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff886878",
-						"node_id": "5cc"
-					},
-					{
-						"position": "Vector2( 1806.48, 980.46 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_2a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ffd8d8d8",
-						"node_id": "5cd"
-					},
-					{
-						"position": "Vector2( 1339.15, 1341.79 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_1a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ffd8d8d8",
-						"node_id": "5ce"
-					},
-					{
 						"position": "Vector2( 1236.65, 1307.46 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -20377,138 +20192,6 @@
 						"node_id": "5d2"
 					},
 					{
-						"position": "Vector2( 1509.81, 735.793 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ffd8d8d8",
-						"node_id": "5d5"
-					},
-					{
-						"position": "Vector2( 1381.31, 2617.79 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "5d6"
-					},
-					{
-						"position": "Vector2( 2540.31, 934.126 )",
-						"rotation": 0.001527,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff6b3834",
-						"node_id": "5d8"
-					},
-					{
-						"position": "Vector2( 1867.64, 1544.13 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff685848",
-						"node_id": "5d9"
-					},
-					{
-						"position": "Vector2( 2881.88, 1764.79 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "fff3a768",
-						"node_id": "5da"
-					},
-					{
-						"position": "Vector2( 2773.38, 1765.29 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "fff3a768",
-						"node_id": "5db"
-					},
-					{
-						"position": "Vector2( 2738.04, 1479.79 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_1a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "fff3a768",
-						"node_id": "5dc"
-					},
-					{
-						"position": "Vector2( 3305.38, 1588.46 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_2a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "fff3a768",
-						"node_id": "5de"
-					},
-					{
-						"position": "Vector2( 3590.71, 1949.13 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff679865",
-						"node_id": "5df"
-					},
-					{
-						"position": "Vector2( 3123.38, 2555.13 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_2a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff679865",
-						"node_id": "5e0"
-					},
-					{
-						"position": "Vector2( 3147.38, 3030.46 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_1a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff679865",
-						"node_id": "5e1"
-					},
-					{
 						"position": "Vector2( 2552.04, 2812.46 )",
 						"rotation": 0,
 						"scale": "Vector2( 0.7, 0.7 )",
@@ -20519,66 +20202,6 @@
 						"block_light": false,
 						"custom_color": "ff679865",
 						"node_id": "5e2"
-					},
-					{
-						"position": "Vector2( 1569.24, 3049.39 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_3a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff809dab",
-						"node_id": "5e3"
-					},
-					{
-						"position": "Vector2( 2007.24, 2912.06 )",
-						"rotation": 0,
-						"scale": "Vector2( -0.7, 0.7 )",
-						"mirror": true,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_1a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff809dab",
-						"node_id": "5e4"
-					},
-					{
-						"position": "Vector2( 1426.14, 2569.43 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "5e5"
-					},
-					{
-						"position": "Vector2( 2130.64, 2379.93 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_2a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ffd8c888",
-						"node_id": "5e6"
-					},
-					{
-						"position": "Vector2( 1515.34, 2171.03 )",
-						"rotation": 3.141593,
-						"scale": "Vector2( 0.7, -0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/village_2a.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff786878",
-						"node_id": "5e8"
 					},
 					{
 						"position": "Vector2( 640, 4480 )",
@@ -21100,102 +20723,6 @@
 						"shadow": false,
 						"block_light": false,
 						"node_id": "666"
-					},
-					{
-						"position": "Vector2( 3831.37, 3896.98 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/tower.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "6bf"
-					},
-					{
-						"position": "Vector2( 3158.03, 3636.98 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/castle.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "6c0"
-					},
-					{
-						"position": "Vector2( 2562.03, 4288.98 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/tower.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "6c1"
-					},
-					{
-						"position": "Vector2( 2135.37, 3715.65 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/tower.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "6c2"
-					},
-					{
-						"position": "Vector2( 3853.61, 3858.55 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "6c5"
-					},
-					{
-						"position": "Vector2( 3202.61, 3586.55 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "6c6"
-					},
-					{
-						"position": "Vector2( 2156.61, 3677.55 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "6c7"
-					},
-					{
-						"position": "Vector2( 2583.61, 4252.05 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "6c8"
 					},
 					{
 						"position": "Vector2( 1473.77, 3478.75 )",
@@ -24086,30 +23613,6 @@
 						"node_id": "6be"
 					},
 					{
-						"position": "Vector2( 3255.67, 4747.35 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "6c3"
-					},
-					{
-						"position": "Vector2( 3146.17, 4748.35 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "6c4"
-					},
-					{
 						"position": "Vector2( 3029.77, 4813.29 )",
 						"rotation": 0,
 						"scale": "Vector2( 1, 1 )",
@@ -24449,30 +23952,6 @@
 						"block_light": false,
 						"custom_color": "ff8a8a8a",
 						"node_id": "7ed"
-					},
-					{
-						"position": "Vector2( 1822.44, 3834.79 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/tower.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "7ee"
-					},
-					{
-						"position": "Vector2( 3641.44, 4805.79 )",
-						"rotation": 0,
-						"scale": "Vector2( -0.7, 0.7 )",
-						"mirror": true,
-						"texture": "res://packs/Prdr1WET/textures/objects/tower.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "7ef"
 					},
 					{
 						"position": "Vector2( 3826.57, 4184.98 )",
@@ -24955,42 +24434,6 @@
 						"node_id": "823"
 					},
 					{
-						"position": "Vector2( 3356.03, 4610.31 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/tower.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff8a8a8a",
-						"node_id": "824"
-					},
-					{
-						"position": "Vector2( 3377.37, 4572.98 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "825"
-					},
-					{
-						"position": "Vector2( 3660.7, 4769.65 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "826"
-					},
-					{
 						"position": "Vector2( 4198.03, 4056.98 )",
 						"rotation": 0,
 						"scale": "Vector2( 0.7, 0.7 )",
@@ -25001,30 +24444,6 @@
 						"block_light": false,
 						"custom_color": "ff994858",
 						"node_id": "827"
-					},
-					{
-						"position": "Vector2( 1846.03, 3795.65 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff994858",
-						"node_id": "828"
-					},
-					{
-						"position": "Vector2( 1583.98, 2984.96 )",
-						"rotation": 0,
-						"scale": "Vector2( 0.7, 0.7 )",
-						"mirror": false,
-						"texture": "res://packs/Prdr1WET/textures/objects/flag.png",
-						"layer": 100,
-						"shadow": false,
-						"block_light": false,
-						"custom_color": "ff809dab",
-						"node_id": "829"
 					},
 					{
 						"position": "Vector2( -233.948, 2069.95 )",
@@ -26070,6 +25489,14 @@
 					}
 				]
 			}
+		}
+	},
+	"mod": {
+		".node_table": {
+
+		},
+		"Dropshadower": {
+
 		}
 	}
 }
